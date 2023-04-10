@@ -1,6 +1,6 @@
 # Exploring-Data-Analytics-with-Accenture-North-America-My-Forage-Virtual-Internship-experience
 Data cleaning, modelling, analysis, visualization, and storytelling.
-![](
+![](20230403_225308.jpg)
 
 I participated in Accenture North America's data analytics virtual internship via Forage in a bid to use my data analytics skill to solve real-world problems, it was an overall thrilling experience for me and I’ll be sharing the wholesome experience with you in this article. About forage, forage is an open-access platform designed to unlock exciting careers for students by connecting them with company-endorsed Virtual Work Experience Programs.
 
